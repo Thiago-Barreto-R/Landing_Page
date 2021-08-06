@@ -2,7 +2,7 @@
 
 <div>
 
-![Foto Base do site](../Landing_Page/assets/Base.png)
+<img src="assets/Base.png">
 
 <p align="center">Foto base do site tirada do Figma.</p>
 </div>
