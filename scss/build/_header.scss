@@ -1,0 +1,74 @@
+header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    padding: .5rem 1rem;
+
+    a {
+        padding: .5rem 1rem;
+
+        img {
+            width: 2rem;
+        }
+    }
+
+    ul {
+        display: flex;
+        align-items: center;
+        list-style: none;
+        gap: 2rem;
+
+        li {
+            padding: .5rem 1rem;
+
+            a {
+                text-decoration: none;
+                color: black;
+                font-size: 1rem;
+
+                &:hover {
+                    opacity: .5;
+                    transition: .3s ease-in-out;
+                }
+            }
+        }
+    }
+
+    .btns {
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+        
+        a {
+            text-decoration: none;
+            border-radius: 2rem;
+            border: 1px solid black;
+            color: white;
+        }
+
+        .btn--inscrito {
+            color: black;
+            transition: .3s ease-in-out;
+
+            &:hover {
+                background-color: black;
+                color: white;
+                transform: scale(1.1);
+            }
+        }
+
+        .btn--conetc {
+            background-color: black;
+            transition: .3s ease-in-out;
+
+            &:hover {
+                background-color: transparent;
+                color: black;
+                transform: scale(1.1);
+            }
+        }
+
+    }
+}
