@@ -4,7 +4,7 @@
 
 <img src="assets/Foto_Final.png">
 
-<p align="center">Foto base do site tirada do Figma.</p>
+<p align="center">Foto final do site.</p>
 </div>
 
 ## Tecnologias Utilizadas
