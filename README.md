@@ -2,7 +2,7 @@
 
 <div>
 
-<img src="assets/Base.png">
+<img src="assets/Foto_Final.png">
 
 <p align="center">Foto base do site tirada do Figma.</p>
 </div>
@@ -13,3 +13,5 @@
 - Css 3
   -  Sass/Scss
 - Figma
+
+
